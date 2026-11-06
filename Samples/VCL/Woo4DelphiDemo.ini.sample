@@ -1,0 +1,11 @@
+﻿[Store]
+URL=https://localhost
+ConsumerKey=ck_6d521515...
+ConsumerSecret=cs_bae5c3...
+QueryStringAuth=0
+AcceptAnyCertificate=1
+
+[WordPress]
+User=test
+AppPassword=QAnD 1234 xz82 567 zkCC 890
+
